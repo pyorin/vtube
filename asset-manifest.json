@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vtube/static/css/main.9fb1c65f.css",
+    "main.js": "/vtube/static/js/main.e76eeb58.js",
+    "static/js/787.ede06966.chunk.js": "/vtube/static/js/787.ede06966.chunk.js",
+    "index.html": "/vtube/index.html",
+    "main.9fb1c65f.css.map": "/vtube/static/css/main.9fb1c65f.css.map",
+    "main.e76eeb58.js.map": "/vtube/static/js/main.e76eeb58.js.map",
+    "787.ede06966.chunk.js.map": "/vtube/static/js/787.ede06966.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fb1c65f.css",
+    "static/js/main.e76eeb58.js"
+  ]
+}
